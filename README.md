@@ -1,2 +1,2 @@
 # taken
-Test project
+*Test project*
