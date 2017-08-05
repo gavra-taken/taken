@@ -1,7 +1,8 @@
 <html>
   <head>
-   <title>Index page </title>
+   <title>Gavra page </title>
   </head>
   <body>
+	<img src="/img/banner.png" alt="banner">
   </body>
 </html>
